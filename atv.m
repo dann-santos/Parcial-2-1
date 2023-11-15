@@ -1,4 +1,5 @@
 %ALuno: Daniel Ferreira dos Santos Filho
+%Aluno: Bruno dos Reis
 
 %nicie o programa com os seguintes comandos: clear, close all, clc
 clear;
